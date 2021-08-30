@@ -1,0 +1,25 @@
+.btn-primary {
+  background:rgb(146, 23, 184);
+  border:rgb(146, 23, 184); 
+}
+.btn-primary:hover {
+  background-color:rgb(112, 22, 139) ;
+  border-color:rgb(112, 22, 139) ;
+}
+.navbar {
+  background: rgb(146, 23, 184);
+}
+.jumbotron {
+  padding: 179px 0 120px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(../images/conf.jpeg) no-repeat center / cover;
+  color: #fff;
+}
+.speakers {
+  padding: 60px 0;
+}
+.speakers .card {
+  margin-bottom: 20px;
+}
+.speakers .card-body {
+  height: 220px;
+}
